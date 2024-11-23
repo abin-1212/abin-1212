@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @abin-1212
+- 👀 I’m interested in software development, DevOps, and exploring innovative tech solutions.
+- 🌱 I’m currently learning Data Structures and Algorithms, Flutter, and advanced DevOps practices.
+- 💞️ I’m looking to collaborate on open-source projects and innovative app development ideas.
+- 📫 How to reach me: abinv1212@gmail.com
+- ⚡ Fun fact: I can spend hours debugging but still celebrate every small victory like it’s my first!
